@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin Login</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="background-animation"></div>
+  <div class="login-wrapper">
+    <div class="login-box {% if error %}error-shake{% endif %}">
+      <h2>Welcome Back</h2>
+      <p>Please login to your account</p>
+      <form method="POST" action="{{ url_for('login') }}">
+        <div class="input-group">
+          <input type="text" id="username" name="username" placeholder=" " required />
+          <label for="username">Username</label>
+        </div>
+        <div class="input-group">
+          <input type="password" id="password" name="password" placeholder=" " required />
+          <label for="password">Password</label>
+        </div>
+        <button type="submit" class="btn ripple">Login</button>
+      </form>
+      {% if error %}
+        <p class="error-msg">{{ error }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <script>
+    // Ripple effect on buttons
+    document.querySelectorAll('.ripple').forEach(button => {
+      button.addEventListener('click', function(e) {
+        const circle = document.createElement('span');
+        circle.classList.add('ripple-effect');
+        const rect = this.getBoundingClientRect();
+        circle.style.left = e.clientX - rect.left + 'px';
+        circle.style.top = e.clientY - rect.top + 'px';
+        this.appendChild(circle);
+        setTimeout(() => circle.remove(), 600);
+      });
+    });
+
+    // Simple form validation feedback
+    const form = document.querySelector('form');
+    form.addEventListener('submit', (e) => {
+      const username = form.username.value.trim();
+      const password = form.password.value.trim();
+      if (!username || !password) {
+        e.preventDefault();
+        alert('Please fill in both username and password.');
+      }
+    });
+  </script>
+</body>
+</html>

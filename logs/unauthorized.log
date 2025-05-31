@@ -1,0 +1,195 @@
+2025-05-13 11:16:12,353 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:16:13,419 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 11:16:17,884 - WARNING - \U0001f6a8 Unauthorized face detected. Snapshot saved at: C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauthorized_20250513-111617.jpg
+2025-05-13 11:16:24,198 - INFO - \u2705 Email with image sent.
+2025-05-13 11:16:24,484 - INFO - \U0001f4ca Total faces detected: 43
+2025-05-13 11:16:24,484 - INFO - \u274c Total unauthorized attempts: 1
+2025-05-13 11:16:27,366 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:16:28,325 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 11:16:34,649 - WARNING - \U0001f6a8 Unauthorized face detected. Snapshot saved at: C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauthorized_20250513-111634.jpg
+2025-05-13 11:16:40,382 - INFO - \u2705 Email with image sent.
+2025-05-13 11:16:40,677 - INFO - \U0001f4ca Total faces detected: 95
+2025-05-13 11:16:40,678 - INFO - \u274c Total unauthorized attempts: 1
+2025-05-13 11:17:29,055 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:17:30,301 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 11:17:31,002 - WARNING - \U0001f6a8 Unauthorized face detected. Snapshot saved at: C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauthorized_20250513-111730.jpg
+2025-05-13 11:17:37,546 - INFO - \u2705 Email with image sent.
+2025-05-13 11:18:48,218 - INFO - \U0001f4ca Total faces detected: 949
+2025-05-13 11:18:48,219 - INFO - \u274c Total unauthorized attempts: 161
+2025-05-13 11:20:53,412 - INFO - \U0001f680 Application started
+2025-05-13 11:20:53,449 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:20:57,721 - INFO - \U0001f4f7 Webcam feed started. Press 'q' to quit.
+2025-05-13 11:21:02,956 - WARNING - \U0001f6a8 Unauthorized face detected at 2025-05-13 11:21:02. Snapshot: unauthorized_20250513-112102.jpg
+2025-05-13 11:21:07,750 - INFO - \U0001f4e7 Email alert sent with image: C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauthorized_20250513-112102.jpg
+2025-05-13 11:21:46,932 - INFO - \U0001f4ca Total faces detected: 610
+2025-05-13 11:21:46,933 - INFO - \u274c Total unauthorized attempts: 84
+2025-05-13 11:21:46,933 - INFO - \U0001f6d1 Application terminated.
+2025-05-13 11:33:00,406 - INFO - \U0001f680 Application started
+2025-05-13 11:33:00,423 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:33:01,697 - INFO - \U0001f4f7 Webcam feed started. Press 'q' to quit.
+2025-05-13 11:33:02,039 - WARNING - \U0001f6a8 Unauthorized face detected at 2025-05-13 11:33:02. Snapshot: unauthorized_20250513-113302.jpg
+2025-05-13 11:33:11,229 - INFO - \U0001f4e7 Email alert sent with image: C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauthorized_20250513-113302.jpg
+2025-05-13 11:33:11,531 - INFO - \U0001f4ca Total faces detected: 1
+2025-05-13 11:33:11,531 - INFO - \u274c Total unauthorized attempts: 1
+2025-05-13 11:33:11,533 - INFO - \U0001f6d1 Application terminated.
+2025-05-13 11:37:19,517 - INFO - \U0001f680 Application started
+2025-05-13 11:37:19,530 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:37:20,959 - INFO - \U0001f4f7 Webcam feed started. Press 'q' to quit.
+2025-05-13 11:37:21,226 - WARNING - \U0001f6a8 Unauthorized face detected at 2025-05-13 11:37:21. Snapshot: unauthorized_20250513-113721.jpg
+2025-05-13 11:38:15,433 - INFO - \u2705 Model loaded successfully.
+2025-05-13 11:38:17,083 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 11:38:17,615 - WARNING - \U0001f6a8 Unauthorized face detected. Snapshot saved at: C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauthorized_20250513-113817.jpg
+2025-05-13 11:38:27,079 - INFO - \u2705 Email with image sent.
+2025-05-13 11:38:55,792 - INFO - \U0001f4ca Total faces detected: 244
+2025-05-13 11:38:55,792 - INFO - \u274c Total unauthorized attempts: 32
+2025-05-13 12:13:26,688 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 12:13:26,688 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 12:13:26,689 - INFO -  * Restarting with stat
+2025-05-13 12:13:28,523 - WARNING -  * Debugger is active!
+2025-05-13 12:13:28,527 - INFO -  * Debugger PIN: 168-433-084
+2025-05-13 12:38:47,241 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-13 12:38:47,251 - WARNING - No such comm: 2591d12f-7b1c-475b-8f29-01fc4e159118
+2025-05-13 12:41:01,868 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 12:41:01,868 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 12:41:01,869 - INFO -  * Restarting with stat
+2025-05-13 12:41:03,247 - WARNING -  * Debugger is active!
+2025-05-13 12:41:03,251 - INFO -  * Debugger PIN: 168-433-084
+2025-05-13 12:41:22,895 - INFO - 127.0.0.1 - - [13/May/2025 12:41:22] "GET / HTTP/1.1" 200 -
+2025-05-13 12:41:22,974 - INFO - 127.0.0.1 - - [13/May/2025 12:41:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-13 12:41:23,411 - WARNING - \U0001f6a8 Unauthorized face detected. Snapshot saved: C:\Users\hp\Downloads\project\Untitled Folder 3\static\snapshots\unauthorized_20250513-124123.jpg
+2025-05-13 12:41:23,415 - INFO - 127.0.0.1 - - [13/May/2025 12:41:23] "GET /video_feed HTTP/1.1" 200 -
+2025-05-13 12:41:23,477 - INFO - 127.0.0.1 - - [13/May/2025 12:41:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-13 12:43:00,231 - INFO - \u2705 Model loaded successfully.
+2025-05-13 12:43:01,390 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 12:43:01,394 - ERROR - \u274c Failed to grab frame
+2025-05-13 12:43:01,399 - INFO - \U0001f4ca Total faces detected: 0
+2025-05-13 12:43:01,399 - INFO - \u274c Total unauthorized attempts: 0
+2025-05-13 12:43:25,572 - INFO - \u2705 Model loaded successfully.
+2025-05-13 12:43:26,729 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 12:43:26,730 - ERROR - \u274c Failed to grab frame
+2025-05-13 12:43:26,739 - INFO - \U0001f4ca Total faces detected: 0
+2025-05-13 12:43:26,739 - INFO - \u274c Total unauthorized attempts: 0
+2025-05-13 12:45:43,481 - INFO -  * Detected change in 'C:\\Users\\hp\\Downloads\\project\\Untitled Folder 3\\app.py', reloading
+2025-05-13 12:45:43,648 - INFO -  * Restarting with stat
+2025-05-13 12:45:45,428 - WARNING -  * Debugger is active!
+2025-05-13 12:45:45,438 - INFO -  * Debugger PIN: 168-433-084
+2025-05-13 12:49:06,844 - INFO -  * Detected change in 'C:\\Users\\hp\\Downloads\\project\\Untitled Folder 3\\app.py', reloading
+2025-05-13 12:49:06,912 - INFO -  * Restarting with stat
+2025-05-13 12:54:15,271 - INFO - Application started.
+2025-05-13 12:54:15,296 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 12:54:15,351 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 12:54:17,011 - INFO - Application started.
+2025-05-13 12:54:17,019 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 12:54:17,039 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 12:58:52,974 - INFO - \u2705 Model loaded successfully.
+2025-05-13 12:58:54,624 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 12:58:54,626 - ERROR - \u274c Failed to grab frame
+2025-05-13 12:58:54,633 - INFO - \U0001f4ca Total faces detected: 0
+2025-05-13 12:58:54,633 - INFO - \u274c Total unauthorized attempts: 0
+2025-05-13 12:58:58,542 - INFO - \u2705 Model loaded successfully.
+2025-05-13 12:59:00,717 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 12:59:00,718 - ERROR - \u274c Failed to grab frame
+2025-05-13 12:59:00,726 - INFO - \U0001f4ca Total faces detected: 0
+2025-05-13 12:59:00,726 - INFO - \u274c Total unauthorized attempts: 0
+2025-05-13 12:59:49,362 - INFO - Application started.
+2025-05-13 12:59:49,375 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 12:59:49,398 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:06:21,810 - INFO - Application started.
+2025-05-13 13:06:21,819 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:06:21,838 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:12:53,513 - INFO - Application started.
+2025-05-13 13:12:53,521 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:12:53,539 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:12:55,278 - INFO - Application started.
+2025-05-13 13:12:55,287 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:12:55,305 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:19:50,731 - INFO - \u2705 Model loaded successfully.
+2025-05-13 13:19:52,181 - INFO - \U0001f4f7 Starting face recognition. Press 'q' to quit.
+2025-05-13 13:19:52,183 - ERROR - \u274c Failed to grab frame
+2025-05-13 13:19:52,188 - INFO - \U0001f4ca Total faces detected: 0
+2025-05-13 13:19:52,188 - INFO - \u274c Total unauthorized attempts: 0
+2025-05-13 13:23:25,175 - INFO - Application started.
+2025-05-13 13:23:35,279 - INFO - Application started.
+2025-05-13 13:23:55,146 - INFO - Application started.
+2025-05-13 13:23:55,154 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:23:55,176 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:23:56,901 - INFO - Application started.
+2025-05-13 13:23:56,909 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:23:56,928 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:24:01,046 - ERROR - Camera frame not received.
+2025-05-13 13:24:34,398 - ERROR - Camera frame not received.
+2025-05-13 13:48:08,003 - ERROR - Camera frame not received.
+2025-05-13 13:50:44,271 - INFO - Application started.
+2025-05-13 13:50:44,279 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:50:44,299 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:50:45,921 - INFO - Application started.
+2025-05-13 13:50:45,930 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:50:45,947 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:50:50,373 - ERROR - Camera frame not received.
+2025-05-13 13:53:43,622 - INFO - Application started.
+2025-05-13 13:53:43,630 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:53:43,650 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:53:45,470 - INFO - Application started.
+2025-05-13 13:53:45,480 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:53:45,500 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:53:47,870 - ERROR - Camera frame not received.
+2025-05-13 13:55:01,166 - ERROR - Camera frame not received.
+2025-05-13 13:57:29,201 - INFO - Application started.
+2025-05-13 13:57:29,211 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:57:29,235 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:57:31,042 - INFO - Application started.
+2025-05-13 13:57:31,056 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 13:57:31,085 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 13:57:34,084 - ERROR - Camera frame not received.
+2025-05-13 14:04:04,957 - INFO - Application started.
+2025-05-13 14:04:04,965 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 14:04:04,984 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 14:04:06,472 - INFO - Application started.
+2025-05-13 14:04:06,481 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 14:04:06,498 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 14:04:10,335 - ERROR - Camera frame not received.
+2025-05-13 14:05:58,049 - INFO - Application started.
+2025-05-13 14:05:58,057 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 14:05:58,077 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 14:07:30,776 - INFO - Application started.
+2025-05-13 14:12:47,159 - INFO - Application started.
+2025-05-13 14:20:27,722 - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-05-13 14:20:27,722 - NumExpr defaulting to 8 threads.
+2025-05-13 14:21:29,381 - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-05-13 14:21:29,381 - NumExpr defaulting to 8 threads.
+2025-05-13 14:23:54,247 - INFO - Application started.
+2025-05-13 14:24:44,408 - INFO - Application started.
+2025-05-13 14:24:44,418 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 14:24:44,436 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 14:24:45,922 - INFO - Application started.
+2025-05-13 14:24:45,932 - INFO - Model loaded from C:\Users\hp\Downloads\project\Untitled Folder 3\models\face_trained.yml
+2025-05-13 14:24:45,950 - INFO - Authorized users loaded: ['Aayam', 'lsap']
+2025-05-13 14:24:48,737 - ERROR - Camera frame not received.
+2025-05-13 14:27:28,123 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747126648.jpg
+2025-05-13 14:27:35,887 - ✅ Email sent.
+2025-05-13 14:29:35,827 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747126775.jpg
+2025-05-13 14:29:43,773 - ✅ Email sent.
+2025-05-13 15:21:28,554 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747129888.jpg
+2025-05-13 15:21:36,426 - ✅ Email sent.
+2025-05-13 15:22:51,152 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747129971.jpg
+2025-05-13 15:23:05,596 - ✅ Email sent.
+2025-05-13 20:41:36,456 - No such comm target registered: jupyter.widget.control
+2025-05-13 20:41:36,457 - No such comm: 13c29fa5-5af3-4215-9882-37fe6fc4fab4
+2025-05-13 20:41:36,993 - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-05-13 20:41:36,993 - NumExpr defaulting to 8 threads.
+2025-05-18 23:16:13,407 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747590373.jpg
+2025-05-18 23:16:19,111 - ✅ Email sent.
+2025-05-18 23:16:43,747 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747590403.jpg
+2025-05-18 23:16:49,310 - ✅ Email sent.
+2025-05-18 23:17:44,713 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747590464.jpg
+2025-05-18 23:17:50,053 - ✅ Email sent.
+2025-05-18 23:19:30,545 - 🚨 Unauthorized face logged at C:\Users\hp\Downloads\project\Untitled Folder 3\logs\unauth_1747590570.jpg
+2025-05-18 23:19:35,502 - ✅ Email sent.
+2025-05-18 23:20:32,283 - From D:\ana\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-05-18 23:42:49,140 - INFO - Application started.
+2025-05-18 23:46:13,318 - INFO - Application started.
+2025-05-18 23:47:09,774 - INFO - Application started.
+2025-05-18 23:48:22,926 - INFO - Application started.

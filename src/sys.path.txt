@@ -1,0 +1,11 @@
+import sys
+import os
+
+# Absolute path to the src directory
+src_dir = r"C:\Users\hp\Downloads\project\Untitled Folder 3\src"
+
+# Add the src directory to the sys.path for imports
+sys.path.append(src_dir)
+
+# Import the logger after adding the src path
+from logger import setup_logger

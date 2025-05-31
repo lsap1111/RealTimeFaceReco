@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard - Face Recognition</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <style>
+    /* Optional small icon style for sidebar nav */
+    .sidebar a i {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="dashboard">
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+      <h3>Admin Panel</h3>
+      <a href="#" class="nav-link"><i>🏠</i> <span>Home</span></a>
+      <a href="#" class="nav-link"><i>📷</i> <span>Live Feed</span></a>
+      <a href="#" class="nav-link"><i>⚙️</i> <span>Settings</span></a>
+      <a href="{{ url_for('logout') }}" class="logout">Logout</a>
+      
+      <button id="toggleSidebarBtn" title="Toggle Sidebar" style="margin-top: 30px; width: 100%; padding: 10px; border:none; background:#357ABD; color:#fff; border-radius:6px; cursor:pointer;">
+        Toggle Sidebar
+      </button>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+      <h1>Welcome, Admin</h1>
+      <video id="videoFeed" class="video-feed" autoplay muted></video>
+      <div class="buttons">
+        <button id="startFeedBtn">Start Feed</button>
+        <button id="stopFeedBtn" disabled>Stop Feed</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Sidebar toggle
+    const sidebar = document.getElementById('sidebar');
+    const toggleBtn = document.getElementById('toggleSidebarBtn');
+
+    toggleBtn.addEventListener('click', () => {
+      sidebar.classList.toggle('collapsed');
+    });
+
+    // Webcam feed control
+    const video = document.getElementById('videoFeed');
+    const startBtn = document.getElementById('startFeedBtn');
+    const stopBtn = document.getElementById('stopFeedBtn');
+
+    let stream;
+
+    async function startFeed() {
+      try {
+        stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: false });
+        video.srcObject = stream;
+        startBtn.disabled = true;
+        stopBtn.disabled = false;
+      } catch (err) {
+        alert('Error accessing webcam: ' + err.message);
+      }
+    }
+
+    function stopFeed() {
+      if (stream) {
+        stream.getTracks().forEach(track => track.stop());
+        video.srcObject = null;
+        startBtn.disabled = false;
+        stopBtn.disabled = true;
+      }
+    }
+
+    startBtn.addEventListener('click', startFeed);
+    stopBtn.addEventListener('click', stopFeed);
+  </script>
+</body>
+</html>
